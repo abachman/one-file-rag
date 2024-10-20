@@ -1,0 +1,9 @@
+data/
+!data/.gitkeep
+.env
+.vscode
+
+# python stuff
+__pycache__/
+*.py[cod]
+*$py.class
